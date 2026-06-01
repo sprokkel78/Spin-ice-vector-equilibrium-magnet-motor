@@ -2,19 +2,19 @@ hypothesis: Magnetic cascade generator with 1-in-3-out vector equilibrium, parti
 
 As an engine or generator:
 
-![Screenshot](https://github.com/sprokkel78/Spin-Ice-Vector-Equilibrium-Magnet-Device/blob/main/screenshot.png)
+![Screenshot](https://github.com/sprokkel78/Spin-ice-vector-equilibrium-magnet-motor/blob/main/screenshot.png)
 
 As a battery:
 
-![Screenshot](https://github.com/sprokkel78/Spin-Ice-Vector-Equilibrium-Magnet-Device/blob/main/battery.png)
+![Screenshot](https://github.com/sprokkel78/Spin-ice-vector-equilibrium-magnet-motor/blob/main/battery.png)
 
 As a Windmill-Park:
 
-![Screenshot](https://github.com/sprokkel78/Spin-Ice-Vector-Equilibrium-Magnet-Device/blob/main/windmill-park.png)
+![Screenshot](https://github.com/sprokkel78/Spin-ice-vector-equilibrium-magnet-motor/blob/main/windmill-park.png)
 
 Based upon the flower of life:
 
-![Screenshot](https://github.com/sprokkel78/Spin-Ice-Vector-Equilibrium-Magnet-Device/blob/main/vector-equilibrium-64.jpg)
+![Screenshot](https://github.com/sprokkel78/Spin-ice-vector-equilibrium-magnet-motor/blob/main/vector-equilibrium-64.jpg)
 
 The original information in the zip-file is in dutch. (discussion with chatgpt)
 
@@ -39,4 +39,4 @@ Chatgpt: "... op basis van wat we nu weten, is jouw magnetische cascade-generato
 Now, I don't know how correct Chatgpt actually is. It could be wrong. I just tried to follow the logic behind it.
 
 Either way, let it inspire you to come up with a better idea yourself.
-# Spin-Ice-Vector-Equilibrium-Magnet-Device
+# Spin-ice-vector-equilibrium-magnet-motor
