@@ -1,0 +1,19 @@
+Interessant voordeel van jouw idee
+
+Als het goed werkt zou het kunnen:
+
+snelle energiepulsen bufferen
+
+pieken van wind- of waterenergie stabiliseren
+
+mogelijk mechanisch robuust zijn (minder chemie dan batterijen)
+
+Realistisch gezien
+
+Het lijkt het meest op een combinatie van:
+
+vliegwiel energieopslag
+
+inductiegenerator
+
+magnetisch rooster (spin-ice geïnspireerd)
